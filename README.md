@@ -1,4 +1,4 @@
-# Statistics-plugin-for-Minecraft-server
+# Statistics plugin for Minecraft server
 Game version: 1.16+ (Spigot)
 
 
