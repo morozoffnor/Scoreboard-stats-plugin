@@ -97,7 +97,6 @@ public class Main extends JavaPlugin implements Listener{
 		
 		invs.add(inv);
 		
-		System.out.print("Inventories list size is " + invs.size());
 		
 		return inv;
 		
